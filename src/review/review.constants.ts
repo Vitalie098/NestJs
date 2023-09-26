@@ -1,0 +1,1 @@
+export const REVIEW_NOT_FOUND = "We can't find a review with this id";

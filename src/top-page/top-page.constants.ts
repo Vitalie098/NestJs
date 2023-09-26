@@ -1,0 +1,1 @@
+export const NOT_FOUND_TOP_PAGE_ERROR = "We can't find o page with this id";
